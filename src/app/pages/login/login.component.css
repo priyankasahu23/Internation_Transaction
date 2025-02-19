@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
-    background-image: url('\BOE-DLT-Project\LoginPage\src\assets\hackathon-background.jpg'); /* Ensure this path is correct */
+    background-image: url('\BOE-DLT-Project\LoginPage\src\assets\bill_of_exchange.jpg'); /* Ensure this path is correct */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
