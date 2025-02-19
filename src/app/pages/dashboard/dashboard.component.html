@@ -1,0 +1,9 @@
+<div *ngIf="userRole === 'Admin'">
+  <h1>Welcome, Admin</h1>
+  <p>This is the Admin Dashboard where you can manage users and payments.</p>
+</div>
+
+<div *ngIf="userRole === 'SBI'">
+  <h1>Welcome, SBI User</h1>
+  <p>This is the SBI Dashboard where you can view transactions and reports.</p>
+</div>
